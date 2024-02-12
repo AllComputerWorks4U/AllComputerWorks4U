@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllComputerWorks4U
 - 👀 I’m interested in programming and hacking :]
-- 🌱 I’m currently learning C++ :D
+- 🌱 I’m currently learning C++, HTML, CSS, Javascript and... Assembly! :D
 - 💞️ I’m looking to collaborate on everything innovative :)
 - 📫 How to reach me: I will setup this info later :)
 
